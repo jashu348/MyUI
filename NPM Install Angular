@@ -1,0 +1,7 @@
+npm install -g @angular/cli
+npm install -g @angular/cli@latest
+ng --version
+npm uninstall -g @angular/cli
+npm cache verify
+npm install -g @angular/cli //re-install
+npm upgrade -g @angular/cli
